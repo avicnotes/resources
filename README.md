@@ -16,6 +16,7 @@ I recommend this one: its beginner friendly for C and python.
 
 ## Java
 1. [Getting started with Java - Open Courseware](https://ocw.mit.edu/ans7870/6/6.005/s16/getting-started/java.html)
+2. [Learn Java - Codecademy](https://www.codecademy.com/learn/learn-java)
 
 
 
